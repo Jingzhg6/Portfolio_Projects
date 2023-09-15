@@ -48,7 +48,7 @@ This project consists of a PowerPoint document that presents the overall concept
 Our project has received guidance from Professor Sylvain GAUTHIER, and the YouTube channel is owned and managed by Auriane Bardonnet
 
 [Click to view the original document](https://www.canva.com/design/DAFkLPXe7Jk/TDRVteG82hZ7Fy2grCg60g/view?utm_content=DAFkLPXe7Jk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
+ | 
 [Click to view the List of the YouTube Channel](https://www.youtube.com/playlist?list=PLmNfvsiRta7lWcorqHmkWiDgAVgvJ6H_Z)
 
 ##### PDF Preview
