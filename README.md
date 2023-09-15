@@ -15,7 +15,7 @@ My teammates and I conducted this project, as indicated on the first page of the
 1. Performance of Google Merchant Center Website: This section covers various aspects, including keywords, audience, acquisition, user behavior, conversion, and LinkedIn analysis (data provided by Professor Alexis FERCHICHI). The data in the PDF report is current as of May 12, 2023, while the original report, with real-time data, can be accessed through the link below.
 
 2. Social Media Analysis of Emlyon Business School: This segment pertains to the analysis of Emlyon Business School's Twitter account. The data used for this analysis is dated back to November 23, 2022, which corresponds to the date when we finalized the report.
-3. 
+
 [Click to view the original report](https://lookerstudio.google.com/reporting/ad490fbf-4f46-4ab4-81a9-3533b4d3a30b/page/p_3q2nhog10c)
 
 ##### PDF Preview
@@ -48,6 +48,7 @@ This project consists of a PowerPoint document that presents the overall concept
 Our project has received guidance from Professor Sylvain GAUTHIER, and the YouTube channel is owned and managed by Auriane Bardonnet
 
 [Click to view the original document](https://www.canva.com/design/DAFkLPXe7Jk/TDRVteG82hZ7Fy2grCg60g/view?utm_content=DAFkLPXe7Jk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 [Click to view the List of the YouTube Channel](https://www.youtube.com/playlist?list=PLmNfvsiRta7lWcorqHmkWiDgAVgvJ6H_Z)
 
 ##### PDF Preview
