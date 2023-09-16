@@ -7,7 +7,7 @@ The 'others' category comprises a variety of projects covering different topics.
 
 Thank you for visiting my repository, and please do not hesitate to contact me if you have any questions or if you would like to access the interactive Power BI dashboards.
 
-===
+
 
 ## **Data Projects**
 ### Google Merchandise Report: 
@@ -43,7 +43,7 @@ Please kindly reach out to me if you intend to engage with the dashboard.
 ##### PDF Preview
 <object data="PowerBI_AirBnB_Dashboard.pdf" width="650" height="650" type='application/pdf'></object>
 
-===
+***
 
 ## **Other Projects**
 
