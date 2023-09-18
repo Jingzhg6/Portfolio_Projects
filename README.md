@@ -1,4 +1,4 @@
-# Introduction
+# Jingqian's Projects
 This repository showcases various projects I have undertaken over the past year, which can be categorized into two main types: data visualization and other projects.
 
 The data visualization category encompasses projects that involve data analysis, conducted using tools such as Google Looker Studio and Power BI. Each project in this category includes a PDF version of the analysis report, a brief project introduction, and a link to the corresponding report or dashboard. However, please note that accessing the original Power BI dashboard requires authorization. If you wish to explore the dashboard further, please feel free to reach out to me.
