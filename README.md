@@ -1,5 +1,5 @@
 # 📊 Data Analysis Portfolio Overview
-Welcome! This repository highlights various projects I’ve completed over the past year, grouped into two categories:
+Welcome! This repository highlights various projects I’ve completed over the past years, grouped into two categories:
 
 ## 🧩 Project Categories
 ### 1. 📈 Data Visualization Projects
