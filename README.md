@@ -35,9 +35,9 @@ Each project provides:
 Thank you for visiting!
 📬 If you have any questions or would like access to the Power BI dashboards, don’t hesitate to reach out. 
 
-*LinkedIn: https://www.linkedin.com/in/zhangjingqian/*
+*📧Email: jingqian.zhang@edu.em-lyon.com*
 
-*Email: jingqian.zhang@edu.em-lyon.com*
+*🔗LinkedIn: [Please click to visit my profile](https://www.linkedin.com/in/zhangjingqian/)*
 
 
 
